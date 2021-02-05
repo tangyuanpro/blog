@@ -325,9 +325,9 @@ sidebar:
          url: 
       fixed: true # 固定宽度
       rows:
-         - name: 反馈BUG
-           icon: fas fa-bug
-           url: https://github.com/tangyuanpro/tangyuanpro.github.io/issues/
+         - name: 说说
+           icon: fas fa-commenting
+           url: /talk/
          - name: 友情链接
            icon: fas fa-users
            url: /friends/
