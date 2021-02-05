@@ -1,8 +1,3 @@
----
-title: 说说
-cover: true
-date: 2021-02-05 13:40:00
----
 <!-- 引用 HexoPlusPlus_Talk组件 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@1.0.4/dist/talk.css" /> 
 <script src="https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@1.0.4/dist/talk.js"></script>
