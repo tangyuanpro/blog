@@ -1,8 +1,7 @@
 ---
-title: talk
+title: 说说
 cover: true
 date: 2021-02-05 15:08:00
-layout: false
 ---
 <!-- 引用 HexoPlusPlus_Talk组件 -->
 <script src="https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@1.0.4/dist/talk_user.js"></script>
