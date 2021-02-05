@@ -326,7 +326,7 @@ sidebar:
       fixed: true # 固定宽度
       rows:
          - name: 说说
-           icon: fas fa-commenting
+           icon: fas fa-comment
            url: /talk/
          - name: 友情链接
            icon: fas fa-users
@@ -445,7 +445,7 @@ site_footer:
     # layout of footer: [aplayer, social, license, info, copyright]
   layout: [social, license, analytics, info, copyright]
   social:
-    - icon: fas messages
+    - icon: 
       url: 
     # or
     - img:
