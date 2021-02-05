@@ -1,3 +1,9 @@
+---
+title: talk
+cover: true
+date: 2021-02-05 15:08:00
+layout: false
+---
 <!-- 引用 HexoPlusPlus_Talk组件 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@1.0.4/dist/talk.css" /> 
 <script src="https://cdn.jsdelivr.net/gh/HexoPlusPlus/HexoPlusPlus@1.0.4/dist/talk.js"></script>
