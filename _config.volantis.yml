@@ -268,7 +268,7 @@ comments:
   # Twikoo
   # https://twikoo.js.org/
   twikoo:
-    js: https://cdn.jsdelivr.net/npm/twikoo@1.2.1 # 建议锁定版本
+    js: https://cdn.jsdelivr.net/npm/twikoo@1.2.1-beta # 建议锁定版本
     path: # 全局评论地址
     # 其他配置项按照yml格式继续填写即可 除了 [el path] 选项
     envId: yxblog-1gyd0kx2b9556eaf  # 腾讯云环境id
