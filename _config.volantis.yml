@@ -640,6 +640,9 @@ plugins:
     enable: #true
     id: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
+  issues:
+    enable: true
+
 rightmenu:
   enable: true
   # hr: 分割线, music: 音乐控制器
