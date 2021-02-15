@@ -3,6 +3,13 @@ layout: friends # 必须
 title: 我的朋友们 # 可选，这是友链页的标题
 cover: true
 ---
+## 本站信息
+
+站名：夜夕的小博客
+简介：一个小破站
+地址：https://yzsdcm.top
+头像：在主页下方
+
 ## 大伙伴们
 
 {% issues sites | api=https://api.github.com/repos/tangyuanpro/tangyuanpro.github.io/issues?sort=updated&state=open&page=1&per_page=100&labels=active %}
